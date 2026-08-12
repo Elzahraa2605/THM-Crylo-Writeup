@@ -8,7 +8,7 @@
 
 - **Machine Name**: Crylo
 - **Platform**: TryHackMe
-- **Difficulty**: Easy
+- **Difficulty**: medium
 - **Topics Covered**: Web Enumeration (ffuf), SQL Injection (Authentication Bypass + Automated Exploitation with sqlmap), Hash Cracking (John the Ripper), Client-Side JavaScript Review (CryptoJS/AES) & Logic-based 2FA Bypass, HTTP Header Spoofing (X-Forwarded-For) لتجاوز Access Control، OS Command Injection، Reverse Shell, Source Code Review (Django)، وعمل Custom AES Decryption Script لفك تشفير Credentials، وصولاً لـ Privilege Escalation عن طريق Sudo.
 
 ---
@@ -32,7 +32,7 @@ nmap -sV -Pn -sC 10.130.168.106
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/1786574164304_Screenshot_2026-08-12_192037.png" width="600">
+  <img src="Screenshot_2026-08-12_192037.png" width="600">
 </p>
 
 ## Technical Analysis
