@@ -56,7 +56,7 @@ ffuf -w /usr/share/wordlists/dirb/big.txt -ac -c -u http://10.130.168.106/FUZZ
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192231.png" width="600">
+  <img src="Screenshot 2026-08-12_192231.png" width="600">
 </p>
 
 ## Technical Analysis
