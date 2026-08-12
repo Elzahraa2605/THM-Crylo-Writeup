@@ -112,16 +112,16 @@ Bypass Payload : username=admin' -- - , password=(anything)
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot 2026-08-12 192848.png" width="600">
+  <img src="Screenshot 2026-08-12 192848.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192906.png" width="600">
+  <img src="Screenshot 2026-08-12 192906.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192933.png" width="600">
+  <img src="Screenshot 2026-08-12 192933.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_193001.png" width="600">
+  <img src="Screenshot 2026-08-12 193001.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -156,19 +156,19 @@ sqlmap -r login.req --technique T --level=3 --risk=3 -D food -T auth_user --colu
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_194435.png" width="600">
+  <img src="Screenshot 2026-08-12 194435.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_194448.png" width="600">
+  <img src="Screenshot 2026-08-12 194448.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_201005.png" width="600">
+  <img src="Screenshot 2026-08-12 201005.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_213229.png" width="600">
+  <img src="Screenshot 2026-08-12 213229.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_213242.png" width="600">
+  <img src="Screenshot 2026-08-12 213242.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -196,10 +196,10 @@ sqlmap -r login.req --technique T -D food -T auth_user -C username,password --du
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_215440.png" width="600">
+  <img src="Screenshot 2026-08-12 215440.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_215950.png" width="600">
+  <img src="Screenshot 2026-08-12 215950.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -224,10 +224,10 @@ john --wordlist=/usr/share/wordlists/rockyou.txt admin_hash.txt
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_221815.png" width="600">
+  <img src="Screenshot 2026-08-12 221815.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_223057.png" width="600">
+  <img src="Screenshot 2026-08-12 223057.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -251,7 +251,7 @@ Login: admin / trigger
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_223341.png" width="600">
+  <img src="Screenshot 2026-08-12 223341.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -273,16 +273,16 @@ Login: admin / trigger
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_223728.png" width="600">
+  <img src="Screenshot 2026-08-12 223728.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_223849.png" width="600">
+  <img src="Screenshot 2026-08-12 223849.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_223959.png" width="400">
+  <img src="Screenshot 2026-08-12 223959.png" width="400">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_225403.png" width="600">
+  <img src="Screenshot 2026-08-12 225403.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -315,13 +315,13 @@ Header Added: X-Forwarded-For: 127.0.0.1
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_231938.png" width="600">
+  <img src="Screenshot 2026-08-12 231938.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_230130.png" width="600">
+  <img src="Screenshot 2026-08-12 230130.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_232737.png" width="600">
+  <img src="Screenshot 2026-08-12 232737.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -355,7 +355,7 @@ Input Field: 22;id
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_232847.png" width="600">
+  <img src="Screenshot 2026-08-12 232847.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -399,16 +399,16 @@ python3 -m http.server 80
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_234010.png" width="600">
+  <img src="Screenshot 2026-08-12 234010.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_234135.png" width="600">
+  <img src="Screenshot 2026-08-12 234135.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_234305.png" width="600">
+  <img src="Screenshot 2026-08-12 234305.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_234315.png" width="600">
+  <img src="Screenshot 2026-08-12 234315.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -440,10 +440,10 @@ stty rows 35 cols 104
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_234926.png" width="600">
+  <img src="Screenshot 2026-08-12 234926.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_235421.png" width="600">
+  <img src="Screenshot 2026-08-12 235421.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -469,13 +469,13 @@ cat settings.py
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_235932.png" width="600">
+  <img src="Screenshot 2026-08-12 235932.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_235946.png" width="600">
+  <img src="Screenshot 2026-08-12 235946.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_000237.png" width="600">
+  <img src="Screenshot 2026-08-13 000237.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -500,7 +500,7 @@ su - anof
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_000237.png" width="600">
+  <img src="Screenshot 2026-08-13 000237.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -525,16 +525,16 @@ cat accounts/enc.py
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_000757.png" width="600">
+  <img src="Screenshot 2026-08-13 000757.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_002911.png" width="600">
+  <img src="Screenshot 2026-08-13 002911.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_002858.png" width="600">
+  <img src="Screenshot 2026-08-13 002858.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_010354.png" width="600">
+  <img src="Screenshot 2026-08-13 010354.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -570,7 +570,7 @@ cat /root/flag.txt
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_010354.png" width="600">
+  <img src="Screenshot 2026-08-13 010354.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -627,7 +627,7 @@ cat /root/flag.txt
 | **Root Flag** | `/root/flag.txt` | `201ea4139d9755d6c9384783df06dc7e` |
 
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-13_011923.png" width="600">
+  <img src="Screenshot 2026-08-13 011923.png" width="600">
 </p>
 
 </div>
