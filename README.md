@@ -1,7 +1,7 @@
 <div dir="rtl" style="text-align: right; width: 100%; word-wrap: break-word; overflow-wrap: break-word; line-height: 2; letter-spacing: 0.2px;">
 
 <p align="center">
-  <img src="Crylo-screens/photo_2026-08-13_02-09-28.jpg" width="400">
+  <img src="photo_2026-08-13_02-09-28.jpg" width="400">
 </p>
 
 # Machine Information
