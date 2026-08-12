@@ -78,13 +78,13 @@ ffuf -w /usr/share/wordlists/dirb/big.txt -ac -c -u http://10.130.168.106/FUZZ
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192333.png" width="600">
+  <img src="Screenshot 2026-08-12 192333.png" width="600">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192405.png" width="300">
+  <img src="Screenshot 2026-08-12 192405.png" width="300">
 </p>
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192452.png" width="600">
+  <img src="Screenshot 2026-08-12 192452.png" width="600">
 </p>
 
 ## Technical Analysis
@@ -112,7 +112,7 @@ Bypass Payload : username=admin' -- - , password=(anything)
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Crylo-screens/Screenshot_2026-08-12_192848.png" width="600">
+  <img src="Crylo-screens/Screenshot 2026-08-12 192848.png" width="600">
 </p>
 <p align="center">
   <img src="Crylo-screens/Screenshot_2026-08-12_192906.png" width="600">
