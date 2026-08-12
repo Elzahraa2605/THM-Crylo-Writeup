@@ -32,7 +32,7 @@ nmap -sV -Pn -sC 10.130.168.106
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="Screenshot_2026-08-12_192037.png" width="600">
+  <img src="Screenshot 2026-08-12 192037.png" width="600">
 </p>
 
 ## Technical Analysis
